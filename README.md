@@ -1,12 +1,12 @@
 👷 Java Engineer
 
-Development & Security
+Development
 
-Golang & Python & Java & JavaScript
+Java & Shell & Golang & Python & JavaScript
 
-Wechat: anTtu
+Wechat: anTtu  
 Blog: https://anTtutu.github.io
 
-![Anttu's github stats](https://github-readme-stats.vercel.app/api?username=anTtutu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anTtutu)
+
+![Anttu's github stats](https://github-readme-stats.vercel.app/api?username=anTtutu&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
