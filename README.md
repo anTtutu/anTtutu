@@ -2,8 +2,6 @@
 
 Development
 
-Java & Shell & Golang & Python & JavaScript
-
 Wechat: anTtutu  
 QQ: 78537438  
 Email: anttu0531@gmail.com  
